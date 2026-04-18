@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main () {
 	var productMerk string = "Asus"
 	var price uint32 = 0
 

@@ -15,4 +15,4 @@ func calculate_circle(diameter float64)(float64,float64){
  var keliling = math.Pi * diameter // keliling lingkaran
  
  return luas , keliling
-}
+} 
